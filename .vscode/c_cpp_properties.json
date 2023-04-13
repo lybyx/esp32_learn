@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\project\\ESP32\\Espressif\\frameworks\\esp-idf-v5.0.1\\components\\**",
+                "D:\\project\\ESP32\\Espressif\\tools\\xtensa-esp32-elf\\esp-2022r1-11.2.0\\xtensa-esp32-elf\\xtensa-esp32-elf\\include\\"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\project\\ESP32\\Espressif\\tools\\riscv32-esp-elf\\esp-2022r1-11.2.0\\riscv32-esp-elf\\bin\\riscv32-esp-elf-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x86"
+        }
+    ],
+    "version": 4
+}
