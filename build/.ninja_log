@@ -2017,3 +2017,13 @@
 49242	49432	7030748105007011	D:/project/ESP32/smart_config/build/.bin_timestamp	3f428dbc794237c5
 49432	49498	0	esp-idf/esptool_py/CMakeFiles/app_check_size	f630243fc3183441
 49432	49498	0	D:/project/ESP32/smart_config/build/esp-idf/esptool_py/CMakeFiles/app_check_size	f630243fc3183441
+67	213	0	esp-idf/esptool_py/CMakeFiles/app_check_size	f630243fc3183441
+67	213	0	D:/project/ESP32/smart_config/build/esp-idf/esptool_py/CMakeFiles/app_check_size	f630243fc3183441
+59	255	7030745654947342	bootloader-prefix/src/bootloader-stamp/bootloader-build	9901bec0b7f54f68
+59	255	7030745654947342	bootloader/bootloader.elf	9901bec0b7f54f68
+59	255	7030745654947342	bootloader/bootloader.bin	9901bec0b7f54f68
+59	255	7030745654947342	bootloader/bootloader.map	9901bec0b7f54f68
+59	255	7030745654947342	D:/project/ESP32/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9901bec0b7f54f68
+59	255	7030745654947342	D:/project/ESP32/smart_config/build/bootloader/bootloader.elf	9901bec0b7f54f68
+59	255	7030745654947342	D:/project/ESP32/smart_config/build/bootloader/bootloader.bin	9901bec0b7f54f68
+59	255	7030745654947342	D:/project/ESP32/smart_config/build/bootloader/bootloader.map	9901bec0b7f54f68
